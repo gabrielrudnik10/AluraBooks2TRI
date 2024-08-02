@@ -28,7 +28,7 @@
     position: absolute;
     top: 100%; 
 }
-.container__botao:checked ~ .lista-menu {
+.container__botao:checked~ .lista-menu {
     display: block;
 }
 

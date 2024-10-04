@@ -1,10 +1,10 @@
 @media screen and (min-width: 1024px) {
-  .container__titulo,
-  .container__titulo--negrito {
-    font-family: var(--fonte-secundario);
-    font-size: 30px;
-  }
+  /* Código omitido */
 
+  .opções_item {
+    padding: 0 1em;
+    text-transform: uppercase;
+  }
   .container__titulo {
     font-weight: 400;
   }

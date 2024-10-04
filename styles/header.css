@@ -4,6 +4,14 @@
     font-family: var(--fonte-secundario);
     font-size: 30px;
   }
+
+  .container__titulo {
+    font-weight: 400;
+  }
+
+  .container__titulo--negrito {
+    font-weight: 700;
+  }
 }
 
 .cabeçalho__menu-hamburguer {
@@ -66,10 +74,3 @@
   display: none;
 }
 
-.container__titulo {
-  font-weight: 400;
-}
-
-.container__titulo--negrito {
-  font-weight: 700;
-}

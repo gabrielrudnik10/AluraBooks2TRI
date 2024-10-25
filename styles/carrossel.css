@@ -82,6 +82,12 @@
         width: 50%;
         margin: 0 20vw 3em 20vw;
       }
+    .descricao__titulo {
+        font-size: 32px;
+      }
+      .card {
+        margin-left: 3em;
+      }
     .carrossel__titulo {
       font-size: 26px;
     }
@@ -95,5 +101,16 @@
     .swiper-button-next {
             display: block;
             top: 60%;
+          }
+    .descrição__titulo {
+            font-size: 32px;
+          }
+        
+    .descrição__texto {
+            font-size: 16px;
+          }
+          .card {
+            width: 60%;
+            margin-left: 3em;
           }
 }

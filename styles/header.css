@@ -90,3 +90,6 @@
 .container__botao:checked ~ .container__rotulo > .cabeçalho__menu-hamburguer {
   background-image: url("../img/MenuAberto.png");
 }
+.container__botao:checked ~ .container__rotulo {
+  background: var(--azul-degrade);
+}

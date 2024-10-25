@@ -40,3 +40,9 @@ hr {
   .lista-rodapé {
     display: none;
   }
+  @media screen and (min-width: 1728px) {
+    .lista-rodapé {
+      border-left: 1px solid var(--cinza);
+      padding-left: 1em;
+    }
+  }
